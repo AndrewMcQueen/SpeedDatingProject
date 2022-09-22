@@ -1,6 +1,6 @@
 # SpeedDatingProject
 <br />
-Harrell, C., Hoffman, H., Heimendinger, Z., and McQueen, A.
+*Harrell, C., Hoffman, H., Heimendinger, Z., and McQueen, A.*
 <br />
 Spring 2022
 <br />
